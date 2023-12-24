@@ -1,0 +1,122 @@
+// Container styling
+.MDBContainer {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+  }
+  
+  // Tabs styling
+  .MDBTabs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  // Tab item styling
+  .MDBTabsItem {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  // Tab link styling
+  .MDBTabsLink {
+    padding: 10px;
+    cursor: pointer;
+    color: #495057;
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    &:hover {
+      background-color: #dee2e6;
+    }
+    &.active {
+      color: #fff;
+      background-color: #007bff;
+      border-color: #007bff;
+    }
+  }
+  
+  // Tabs content styling
+  .MDBTabsContent {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  // Tabs pane styling
+  .MDBTabsPane {
+    display: none;
+    &.show {
+      display: block;
+    }
+  }
+  
+  // Button styling
+  .MDBBtn {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    &:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+  }
+  
+  // Icon styling
+  .MDBIcon {
+    margin-right: 5px;
+  }
+  
+  // Input styling
+  .MDBInput {
+    margin-bottom: 15px;
+    label {
+      color: #495057;
+    }
+    input {
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      padding: 10px;
+    }
+  }
+  
+  // Checkbox styling
+  .MDBCheckbox {
+    margin-top: 10px;
+    label {
+      color: #495057;
+    }
+    input {
+      margin-right: 5px;
+    }
+  }
+  
+  // Link styling
+  a {
+    color: #007bff;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+  }
+  

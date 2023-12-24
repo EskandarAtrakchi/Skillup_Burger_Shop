@@ -1,0 +1,46 @@
+// order-details.scss
+
+.order-details {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+  
+    main {
+      h1 {
+        text-align: center;
+        font-size: 1.5em;
+        margin-bottom: 20px;
+      }
+  
+      // Status Section
+      > div:nth-child(1) {
+        margin-bottom: 20px;
+  
+        h2 {
+          font-size: 1.2em;
+          margin-bottom: 10px;
+        }
+  
+        p {
+          margin: 0;
+        }
+      }
+  
+      // Payment Section
+      > div:nth-child(2) {
+        h2 {
+          font-size: 1.2em;
+          margin-bottom: 10px;
+        }
+  
+        p {
+          margin: 0;
+        }
+      }
+    }
+  }
+  
