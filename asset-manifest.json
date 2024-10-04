@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Skillup_Burger_Shop/static/css/main.cbb18ab3.css",
+    "main.js": "/Skillup_Burger_Shop/static/js/main.3d0cc4c6.js",
+    "static/media/burger3.png": "/Skillup_Burger_Shop/static/media/burger3.11eccfcb1a45834ac9d7.png",
+    "static/media/burger2.png": "/Skillup_Burger_Shop/static/media/burger2.3a02b94cd44d825ebb94.png",
+    "static/media/bg.jpg": "/Skillup_Burger_Shop/static/media/bg.8bcdc477de5711ccac1c.jpg",
+    "static/media/fa-solid-900.ttf": "/Skillup_Burger_Shop/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/burger1.png": "/Skillup_Burger_Shop/static/media/burger1.6cbf3dc63aff1ced8e98.png",
+    "static/media/fa-brands-400.ttf": "/Skillup_Burger_Shop/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Skillup_Burger_Shop/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Skillup_Burger_Shop/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Skillup_Burger_Shop/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/skj.jpg": "/Skillup_Burger_Shop/static/media/skj.db9eb1b89fe34f03c54f.jpg",
+    "static/media/fa-regular-400.woff2": "/Skillup_Burger_Shop/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Skillup_Burger_Shop/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Skillup_Burger_Shop/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Skillup_Burger_Shop/index.html",
+    "main.cbb18ab3.css.map": "/Skillup_Burger_Shop/static/css/main.cbb18ab3.css.map",
+    "main.3d0cc4c6.js.map": "/Skillup_Burger_Shop/static/js/main.3d0cc4c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb18ab3.css",
+    "static/js/main.3d0cc4c6.js"
+  ]
+}
